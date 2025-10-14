@@ -1,0 +1,21 @@
+{
+  "name": "x101-lodash-project",
+  "version": "1.2.2",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "lodash",
+    "npm package"
+  ],
+  "bin": {
+    "x101-lodash-project": "./src/index.js"
+  },
+  "author": "Md Al Mamun",
+  "license": "ISC",
+  "description": "This is a simple real-world practical project like Lodash.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

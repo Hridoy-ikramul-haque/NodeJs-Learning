@@ -1,0 +1,4 @@
+TopDeals_HolidayConcept - Deals needs to be in Yellow (like Members version)
+HolidayConcept_Members - ribbon animation needs to match HolidayConcept version (missing ribbon above Top Deals copy)
+HolidayConcept_Headline2_test - Deals needs to be in Yellow (like Members version) - Frame2 copy layout needs to match layout of HolidayConcept_Members_Headline2_test version (we have a widowed word)
+HolidayConcept_Members_Headline2_test - ribbon animation needs to match HolidayConcept version (missing ribbon above Top Deals copy
